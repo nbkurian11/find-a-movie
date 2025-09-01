@@ -1,8 +1,8 @@
-Find-a-Movie
+#Find-a-Movie
 
 A simple Movie Explorer web app powered by the TMDB API. Users can search for movies and view key details like posters, ratings, and release years.
 
-Features (MVP)
+#Features (MVP)
 Search Bar
 
 Enter a movie name to fetch results from the TMDB API.
@@ -27,7 +27,7 @@ Genres
 
 Cast 
 
-Tech Stack
+#Tech Stack
 
 Frontend: HTML, CSS, JavaScript 
 
