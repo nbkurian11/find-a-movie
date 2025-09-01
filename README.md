@@ -1,34 +1,37 @@
-Find-a-Movie is a Movie Explorer web app powered by the TMDB API. Users can search for movies and view key details such as posters, ratings, and release years.
 
-Features (MVP)
-Search Bar
+# Find-a-Movie
 
-Enter a movie name to fetch results from the TMDB API.
+**Find-a-Movie** is a Movie Explorer web app powered by the [TMDB API](https://developer.themoviedb.org/). Users can search for movies and view key details such as posters, ratings, and release years.
 
-Movie Results List
+---
 
-Displays the top 5–10 search results with:
+## Features (MVP)
 
-Movie poster
+### 1. Search Bar
 
-Title and release year
+* Enter a movie name to fetch results from the TMDB API.
 
-Average rating
+### 2. Movie Results List
 
-Movie Details Page (optional for MVP)
+* Displays the top 5–10 search results with:
 
-Click on a movie to view additional details:
+  * Movie poster
+  * Title and release year
+  * Average rating
 
-Overview/description
+### 3. Movie Details Page (optional for MVP)
 
-Genres
+* Click on a movie to view additional details:
 
-Cast (top 3 actors)
+  * Overview/description
+  * Genres
+  * Cast (top 3 actors)
 
-Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript
+## Tech Stack
 
-API: TMDB API
+* **Frontend:** HTML, CSS, JavaScript
+* **API:** TMDB API
 
-API: TMDB API
+
